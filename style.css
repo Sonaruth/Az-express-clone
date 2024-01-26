@@ -116,6 +116,7 @@ body{
     display: flex;
     height: 40px;
     border: none;
+    text-align: center;
 }
 .link .icon-input button{
     width: 23%;
